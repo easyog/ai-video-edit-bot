@@ -62,6 +62,6 @@ npm start                   # node cli-bridge.js
 
 > Пути к Python/yt-dlp и рабочим папкам настраиваются переменными окружения (`PYTHON_EXE`, `REFS_DIR`, `OUT_DIR`, `SKILL_DIR`) — см. `bot/.env.example`.
 
-## 📌 Чему научилась
+## 📌 Чему научился
 
 Оркестрации процессов между Node и Python, интеграции ML/DSP-библиотек (анализ аудио, ASR, source separation, детекция сцен), безопасной работе с пользовательским вводом и subprocess, борьбе с гонками данных.
