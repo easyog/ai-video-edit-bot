@@ -1,0 +1,8 @@
+librosa>=0.10.1
+numpy>=1.24
+faster-whisper>=1.0.0
+scenedetect[opencv]>=0.6.3
+opencv-python-headless>=4.8
+demucs>=4.0
+# torch / torchaudio installed separately with CUDA build:
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121

@@ -1,0 +1,22 @@
+# secrets
+**/.env
+
+# node
+**/node_modules/
+
+# python
+**/__pycache__/
+*.pyc
+**/.venv/
+
+# runtime / generated
+**/tracks/
+**/refs/
+**/output/
+**/cache/
+**/tmp/
+**/active_state.json
+*.log
+*.err
+*.bak
+*.audit_backup*

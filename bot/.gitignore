@@ -1,0 +1,10 @@
+.env
+node_modules/
+tmp/
+*.log
+*.err
+*.bak
+*.audit_backup*
+cli-bridge_backup_*.js
+cli-bridge_final_attempt.js
+cli-bridge.js.bak
