@@ -65,3 +65,11 @@ npm start                   # node cli-bridge.js
 ## 📌 Чему научился
 
 Оркестрации процессов между Node и Python, интеграции ML/DSP-библиотек (анализ аудио, ASR, source separation, детекция сцен), безопасной работе с пользовательским вводом и subprocess, борьбе с гонками данных.
+
+
+
+https://github.com/user-attachments/assets/1437524c-3073-4027-ac21-d32dba0cc42e
+
+
+
+
