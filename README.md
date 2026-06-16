@@ -67,6 +67,10 @@ npm start                   # node cli-bridge.js
 Оркестрации процессов между Node и Python, интеграции ML/DSP-библиотек (анализ аудио, ASR, source separation, детекция сцен), безопасной работе с пользовательским вводом и subprocess, борьбе с гонками данных.
 
 
+<img width="950" height="296" alt="image" src="https://github.com/user-attachments/assets/367a682a-0032-4f5c-b4dc-b65348c818b7" />
+<img width="503" height="634" alt="image" src="https://github.com/user-attachments/assets/2928f08d-788a-4f8e-8979-3c86a546dac3" />
+<img width="489" height="765" alt="image" src="https://github.com/user-attachments/assets/7762b749-501f-4d96-bd23-d9fd40b18bb1" />
+<img width="511" height="739" alt="image" src="https://github.com/user-attachments/assets/68914d41-4dc5-4cd7-8192-12e4d0bbbf01" />
 
 https://github.com/user-attachments/assets/1437524c-3073-4027-ac21-d32dba0cc42e
 
