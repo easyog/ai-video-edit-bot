@@ -20,3 +20,7 @@
 *.err
 *.bak
 *.audit_backup*
+
+# sample/media
+*.mp4
+*.mov
